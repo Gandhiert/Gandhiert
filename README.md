@@ -1,31 +1,31 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Gandhiert+%F0%9F%91%8B;Mahasiswa+Teknologi+Informasi+ITS;Backend+%26+System+Design+Enthusiast;Cloud+%26+AI+Engineering+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hell0%2C+im+Gandhiert+%F0%9F%91%8B;Undergraduate+IT+Student+@+ITS;Backend+%26+System+Design+Enthusiast;Cloud+%26+AI+Engineering+Explorer" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  Mahasiswa Teknologi Informasi di <b>ITS Surabaya</b> yang berfokus pada pengembangan perangkat lunak, arsitektur sistem, dan kecerdasan buatan.
+  Undergraduate Information Technology student at <b>ITS Surabaya</b> currently focused on Software engineering, AI tools usage and System Architecture.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME-LINKEDIN-KAMU" target="_blank">
+  <a href="https://linkedin.com/in/gandhi-julio-ert" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:EMAIL-KAMU@gmail.com">
+  <a href="mailto:gandhiert149@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://LINK-PORTFOLIO-KAMU.com" target="_blank">
+  <a href="https://gandhiert.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 About Me
 
-- 🔭 Saat ini sedang mendalami **System Design** & arsitektur *backend*
-- 🌱 Sedang mengembangkan proyek menggunakan **Go (Golang)**, **React**, dan **Docker**
-- 🎓 Mahasiswa Teknologi Informasi di **Institut Teknologi Sepuluh Nopember (ITS)**
-- ⚡ Tertarik pada *Full-Stack Development*, *Cloud Computing*, dan *AI Engineering*
+- 🔭 Currently diving deep into **System Design** & *backend* architecture
+- 🌱 Building projects using **Go (Golang)**, **React**, and **Docker**
+- 🎓 Information Technology student at **Institut Teknologi Sepuluh Nopember (ITS)**
+- ⚡ Interested in *Full-Stack Development*, *Cloud Computing*, and *AI Engineering*
 
 ---
 
@@ -41,7 +41,7 @@
 
 **Cloud, DevOps & Tools**
 
-[![Tools](https://skillicons.dev/icons?i=docker,aws,azure,git,linux&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,azure,git,linux&theme=dark)](https://skillicons.dev)
 
 ---
 
